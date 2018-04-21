@@ -10,9 +10,9 @@ It was initially designed as a browser for Ethereum, but, because of the incompa
 
 - [AVM](): Abstract Virtual Machine, a virtual machine optimized for functional programs.
 
-- [Cedille-Core](): the core type theory which formality compiles to, which is executed on the AVM.
-
 - [Formality](): a high-level language that runs on the AVM.
+
+- [Cedille-Core](): the core type-theory behind Formality. 
 
 - [Refl](): a platform (browser) for decentralized applications.
 
