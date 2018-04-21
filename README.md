@@ -16,6 +16,6 @@ It was initially designed as a browser for Ethereum, but, because of the incompa
 
 - [Refl](): a platform (browser) for decentralized applications.
 
-It also uses [IPFS]() as a decentralized store, and [Ethereum] as a decentralized computer.
+It also uses [IPFS]() as a decentralized store, and [Ethereum]() as a decentralized computer.
 
 Note: all those names are possibly silly (because I needed to chose something) and accepting suggestions.
